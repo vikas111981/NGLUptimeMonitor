@@ -19,13 +19,13 @@ sites:
     url: https://nangilife.com
     type: globalping
     check: "icmp-ping"
-    location: "Berlin+Amsterdam" # + sign picks a probe in either
+    location: "Berlin" # + sign picks a probe in either
 
   - name: "NGL.Com - New Delhi"
     url: https://nangilife.com
     type: globalping
     check: "icmp-ping"
-    location: "New Delhi+Mumbai" # + sign picks a probe in either
+    location: "New Delhi" # + sign picks a probe in either
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

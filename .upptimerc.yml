@@ -3,6 +3,18 @@ owner: vikas111981 # Your GitHub organization or username, where this repository
 repo: NGLUptimeMonitor # The name of this repository
 
 sites:
+  - name: "NGL.Com - New Delhi"
+    url: https://nangilife.com
+    type: globalping
+    check: "icmp-ping"
+    location: "New Delhi" #
+
+  - name: "NGL.Com - Mumbai"
+    url: https://nangilife.com
+    type: globalping
+    check: "icmp-ping"
+    location: "Mumbai" #
+    
   - name: "NGL.Com - New York"
     url: https://nangilife.com
     type: globalping
@@ -21,17 +33,35 @@ sites:
     check: "icmp-ping"
     location: "Berlin"
 
-  - name: "NGL.Com - New Delhi"
-    url: https://nangilife.com
+  - name: "NGL.Online - New Delhi"
+    url: https://nangilife.online
     type: globalping
     check: "icmp-ping"
     location: "New Delhi" #
 
-  - name: "NGL.Com - Mumbai"
-    url: https://nangilife.com
+  - name: "NGL.Online - Mumbai"
+    url: https://nangilife.online
     type: globalping
     check: "icmp-ping"
     location: "Mumbai" #
+
+  - name: "NGL.Online - New York"
+    url: https://nangilife.online
+    type: globalping
+    check: "icmp-ping"   # Standard Ping (Latency)
+    location: "New York"
+
+  - name: "NGL.Online - London"
+    url: https://nangilife.online
+    type: globalping
+    check: "icmp-ping"
+    location: "London"
+
+  - name: "NGL.Online - Berlin"
+    url: https://nangilife.online
+    type: globalping
+    check: "icmp-ping"
+    location: "Berlin"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

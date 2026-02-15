@@ -6,7 +6,7 @@
     "slug": "ngl-com-new-delhi",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
@@ -16,6 +16,7 @@
     "timeMonth": 590,
     "timeYear": 590,
     "dailyMinutesDown": {
+      "2026-02-15": 0,
       "2026-02-11": 3
     }
   },
@@ -25,44 +26,48 @@
     "icon": "https://icons.duckduckgo.com/ip3/nangilife.com.ico",
     "slug": "ngl-com-mumbai",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 804,
     "timeDay": 1176,
     "timeWeek": 804,
     "timeMonth": 804,
     "timeYear": 804,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-15": 0
+    }
   },
   {
     "name": "NGL.Com - New York",
     "url": "https://nangilife.com",
     "icon": "https://icons.duckduckgo.com/ip3/nangilife.com.ico",
     "slug": "ngl-com-new-york",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 403,
     "timeDay": 417,
     "timeWeek": 403,
     "timeMonth": 403,
     "timeYear": 403,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-15": 0
+    }
   },
   {
     "name": "NGL.Com - London",
     "url": "https://nangilife.com",
     "icon": "https://icons.duckduckgo.com/ip3/nangilife.com.ico",
     "slug": "ngl-com-london",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,16 +76,18 @@
     "timeWeek": 172,
     "timeMonth": 172,
     "timeYear": 172,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-15": 0
+    }
   },
   {
     "name": "NGL.Com - Berlin",
     "url": "https://nangilife.com",
     "icon": "https://icons.duckduckgo.com/ip3/nangilife.com.ico",
     "slug": "ngl-com-berlin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,16 +96,18 @@
     "timeWeek": 131,
     "timeMonth": 131,
     "timeYear": 131,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-15": 0
+    }
   },
   {
     "name": "NGL.Online - New Delhi",
     "url": "https://nangilife.online",
     "icon": "https://icons.duckduckgo.com/ip3/nangilife.online.ico",
     "slug": "ngl-online-new-delhi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,16 +116,18 @@
     "timeWeek": 692,
     "timeMonth": 692,
     "timeYear": 692,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-15": 0
+    }
   },
   {
     "name": "NGL.Online - Mumbai",
     "url": "https://nangilife.online",
     "icon": "https://icons.duckduckgo.com/ip3/nangilife.online.ico",
     "slug": "ngl-online-mumbai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,16 +136,18 @@
     "timeWeek": 1152,
     "timeMonth": 1152,
     "timeYear": 1152,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-15": 0
+    }
   },
   {
     "name": "NGL.Online - New York",
     "url": "https://nangilife.online",
     "icon": "https://icons.duckduckgo.com/ip3/nangilife.online.ico",
     "slug": "ngl-online-new-york",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -143,16 +156,18 @@
     "timeWeek": 389,
     "timeMonth": 389,
     "timeYear": 389,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-15": 0
+    }
   },
   {
     "name": "NGL.Online - London",
     "url": "https://nangilife.online",
     "icon": "https://icons.duckduckgo.com/ip3/nangilife.online.ico",
     "slug": "ngl-online-london",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -161,16 +176,18 @@
     "timeWeek": 114,
     "timeMonth": 114,
     "timeYear": 114,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-15": 0
+    }
   },
   {
     "name": "NGL.Online - Berlin",
     "url": "https://nangilife.online",
     "icon": "https://icons.duckduckgo.com/ip3/nangilife.online.ico",
     "slug": "ngl-online-berlin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -179,6 +196,8 @@
     "timeWeek": 134,
     "timeMonth": 134,
     "timeYear": 134,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-15": 0
+    }
   }
 ]
